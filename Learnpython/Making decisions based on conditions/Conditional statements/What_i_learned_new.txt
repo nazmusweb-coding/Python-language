@@ -1,0 +1,5 @@
+in practice31.py, i learned about a function name.endwith('a'), which returns boolean value.
+in practice33.py, i learned about a function name.startwith('x'), which returns boolean value.
+in practice33.py, i learned about a function len(name), which returns length of the str.
+in practice34.py, i learned about priority of AND OR NOT, order: NOT > AND > OR.
+
