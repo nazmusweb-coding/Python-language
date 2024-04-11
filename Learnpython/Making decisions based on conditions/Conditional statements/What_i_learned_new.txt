@@ -2,4 +2,7 @@ in practice31.py, i learned about a function name.endwith('a'), which returns bo
 in practice33.py, i learned about a function name.startwith('x'), which returns boolean value.
 in practice33.py, i learned about a function len(name), which returns length of the str.
 in practice34.py, i learned about priority of AND OR NOT, order: NOT > AND > OR.
+in practice51.py, i learned about a function isnumeric(), which returns boolean value.
+in practice78.py, i learned about function invocation with parameter names, this will help to keep default values untouchable.
+in practice83.py, i learned about docstrings to know more visit: https://peps.python.org/pep-0257/
 
